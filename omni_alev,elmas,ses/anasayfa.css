@@ -1,0 +1,182 @@
+#oyuncu
+{
+  margin-top: -200px;
+}
+#ates_but
+{
+    margin-top: 300px;
+    width: 200px;
+    height: 250px;
+    background-image: url(resimler/heatblast.png);
+    background-size: cover;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#ates_but:hover
+{
+    opacity: 1;
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgb(134, 22, 22), 0 0 10px rgb(187, 166, 7);
+}
+
+#ates_but_div p
+{
+    cursor: grab;
+}
+
+#Elmas_but_div
+{
+display: flex;
+justify-content: center;
+margin-top: -340px;
+margin-left: 50px;
+}
+#Elmas_but
+{
+    width: 200px;
+    height: 250px;
+    background-image: url(resimler/diamondhead.png);
+    background-size: cover;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#Elmas_but_div p
+{
+    display: flex;
+    margin-top: 270px;
+    margin-left: -200px;
+    cursor:grab;
+}
+
+#Elmas_but:hover
+{
+    box-shadow: 0 0 10px rgb(12, 205, 150);
+    transform: scale(1.1);
+}
+
+#ses_but_div
+{
+    display: flex;
+    margin-top: -320px;
+    float: right;
+    margin-right: 10px;
+}
+
+#ses_but
+{
+      width: 200px;
+    height: 250px;
+    background-image: url(resimler/blitzwolf.png);
+    background-size: cover;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#ses_but_div p
+{
+    display: flex;
+    margin-top: 270px;
+    margin-left: -200px;
+    cursor:grab;
+}
+
+#ses_but:hover
+{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgb(254, 171, 185); 
+     
+}
+
+#guc_but
+{
+     width: 200px;
+    height: 250px;
+    background-image: url(resimler/humangasor.png);
+    background-size: cover;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#guc_but:hover
+{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgb(89, 73, 53);
+}
+
+#guc_but_div p
+{
+     cursor: grab;
+}
+
+#lazer_but_div
+{
+   display: flex;
+justify-content: center;
+margin-top: -310px;
+margin-left: 5px; 
+}
+
+#lazer_but
+{
+     width: 200px;
+    height: 250px;
+    background-image: url(resimler/jetray.png);
+    background-size: cover;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#lazer_but_div p
+{
+   display: flex;
+    margin-top: 270px;
+    margin-left: -200px;
+    cursor:grab; 
+}
+
+#lazer_but:hover
+{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px red;
+}
+
+#balcik_but_div
+{
+    display: flex;
+    float: right;
+    margin-right:60px;
+margin-top: -325px;
+ 
+}
+
+#balcik_but_div p
+{
+   display: flex;
+    margin-top: 270px;
+    margin-left: -200px;
+    cursor:grab; 
+}
+
+#balcik_but
+{
+     width: 200px;
+    height: 250px;
+    background-image: url(resimler/goop.png);
+    background-size: cover;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#balcik_but:hover
+{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(136, 244, 81, 0.797);
+}
+
+#skor
+{
+    display: flex;
+    justify-content: center;
+    margin-top: -400px;
+}
