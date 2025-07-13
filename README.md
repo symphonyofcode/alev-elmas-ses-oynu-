@@ -1,0 +1,1 @@
+html,css, javascript dosyalarını barındırdığınız dosyada resimler adında bir dosya oluşturup içine resimleri koyun.                                                                                                   
